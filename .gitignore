@@ -1,1 +1,12 @@
-/cmake-build-debug/
+cmake-build-debug/
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.o
+*.obj
+*.log
+*.user
+*.exe
+*.out
